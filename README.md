@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PrernaJamloki
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Linux 
+
   
 
 <!---
